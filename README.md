@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Minilik Zeru</h1>
-<h3 align="center">A passionate fullstack developer from Ethiopia</h3>
+<h3 align="center">Full Stack Developer From Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minilik94&label=Profile%20views&color=0e75b6&style=flat" alt="minilik94" /> </p>
 
-- 🌱 I’m currently learning **Javascript, Nodejs**
+- 🌱 I’m currently learning **Svelte js, Nodejs **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
