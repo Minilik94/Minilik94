@@ -2,10 +2,16 @@
 <h3 align="center">Full Stack Developer From Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minilik94&label=Profile%20views&color=0e75b6&style=flat" alt="minilik94" /> </p>
+<h3 align="left">About Me</h3>
+<p align="left">I'm a Full Stack Developer based in Ethiopia with experience in building web and mobile applications. My passion for programming started during my undergraduate studies in Computer Science and has only grown stronger since then. Currently, I'm working on improving my skills in Svelte.js and Node.js.</p>
 
-- 🌱 I’m currently learning **Svelte js, Nodejs **
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/minilik94" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/minilik-zeru/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:minilikzeru@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 <p align="left">
 </p>
 
