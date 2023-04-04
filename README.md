@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Minilik Zeru!</h1>
+<h1 align="center">Hey there, I'm Minilik!</h1>
 <h3 align="center">A Full Stack Developer from Ethiopia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minilik94&label=Profile%20views&color=0e75b6&style=flat" alt="minilik94" /> </p>
 <h3 align="left">Who am I?</h3>
