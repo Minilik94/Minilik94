@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, I'm Minilik!</h1>
-<h3 align="center">A Full Stack Developer from Ethiopia</h3>
+<h1 align="center">Hey there &#x1F44B, I'm Minilik!</h1>
+<h3 align="center">A Full Stack Developer from Ethiopia &#x1F680</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minilik94&label=Profile%20views&color=0e75b6&style=flat" alt="minilik94" /> </p>
-<h3 align="left">Who am I?</h3>
+<h3 align="left">Who am I? &#x1F464</h3>
 <p align="left">I'm an enthusiastic Full Stack Developer with a passion for creating web and mobile applications. My interest in programming started during my undergraduate studies in Computer Science and has only grown stronger ever since. Being a lifelong learner, I always strive to improve my skills, and currently, I'm focusing on enhancing my proficiency in Svelte.js and Node.js.</p>
 <h3 align="left">What do I bring to the table?</h3>
 <p align="left">With my extensive experience and in-depth knowledge of various programming languages and frameworks, I'm capable of delivering robust, scalable, and efficient solutions that meet the clients' needs. I have worked with multiple clients and have developed applications for various domains, including healthcare, e-commerce, education, and more.</p>
